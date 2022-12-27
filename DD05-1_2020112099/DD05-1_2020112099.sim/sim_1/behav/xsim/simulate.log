@@ -1,0 +1,19 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+                   0BCDIn =  0 --> a=1,b=1,c=1,d=1,e=1,f=1,g=0
+                  10BCDIn =  1 --> a=0,b=1,c=1,d=0,e=0,f=0,g=0
+                  20BCDIn =  2 --> a=1,b=1,c=0,d=1,e=1,f=0,g=0
+                  30BCDIn =  3 --> a=1,b=1,c=1,d=1,e=0,f=0,g=1
+                  40BCDIn =  4 --> a=0,b=1,c=1,d=0,e=0,f=1,g=1
+                  50BCDIn =  5 --> a=1,b=0,c=1,d=1,e=0,f=1,g=1
+                  60BCDIn =  6 --> a=1,b=0,c=1,d=1,e=1,f=1,g=1
+                  70BCDIn =  7 --> a=1,b=1,c=1,d=0,e=0,f=0,g=0
+                  80BCDIn =  8 --> a=1,b=1,c=1,d=1,e=1,f=1,g=1
+                  90BCDIn =  9 --> a=1,b=1,c=1,d=1,e=0,f=1,g=1
+                 100BCDIn = 10 --> a=1,b=1,c=1,d=1,e=1,f=1,g=0
+                 110BCDIn = 11 --> a=1,b=1,c=1,d=1,e=1,f=1,g=0
+                 120BCDIn = 12 --> a=1,b=1,c=1,d=1,e=1,f=1,g=0
+                 130BCDIn = 13 --> a=1,b=1,c=1,d=1,e=1,f=1,g=0
+                 140BCDIn = 14 --> a=1,b=1,c=1,d=1,e=1,f=1,g=0
+                 150BCDIn = 15 --> a=1,b=1,c=1,d=1,e=1,f=1,g=0
+$finish called at time : 160 ns : File "C:/Users/Minji/vivado/DD05-1_2020112099/DD05-1_2020112099.srcs/sources_1/new/DD05-1_2020112099.v" Line 50
