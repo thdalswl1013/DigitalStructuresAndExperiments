@@ -1,0 +1,59 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+                   0 BCDIn =  0 --> DECOut = 0000000000
+
+                  10 BCDIn =  1 --> DECOut = 0000000000
+
+                  15 BCDIn =  1 --> DECOut = 0000000010
+
+                  20 BCDIn =  2 --> DECOut = 0000000010
+
+                  25 BCDIn =  2 --> DECOut = 0000000100
+
+                  30 BCDIn =  3 --> DECOut = 0000000100
+
+                  35 BCDIn =  3 --> DECOut = 0000001000
+
+                  40 BCDIn =  4 --> DECOut = 0000001000
+
+                  45 BCDIn =  4 --> DECOut = 0000010000
+
+                  50 BCDIn =  5 --> DECOut = 0000010000
+
+                  55 BCDIn =  5 --> DECOut = 0000100000
+
+                  60 BCDIn =  6 --> DECOut = 0000100000
+
+                  65 BCDIn =  6 --> DECOut = 0001000000
+
+                  70 BCDIn =  7 --> DECOut = 0001000000
+
+                  75 BCDIn =  7 --> DECOut = 0010000000
+
+                  80 BCDIn =  8 --> DECOut = 0010000000
+
+                  85 BCDIn =  8 --> DECOut = 0100000000
+
+                  90 BCDIn =  9 --> DECOut = 0100000000
+
+                  95 BCDIn =  9 --> DECOut = 1000000000
+
+                 100 BCDIn = 10 --> DECOut = 1000000000
+
+                 105 BCDIn = 10 --> DECOut = 0000000000
+
+                 110 BCDIn = 11 --> DECOut = 0000000000
+
+                 120 BCDIn = 12 --> DECOut = 0000000000
+
+                 130 BCDIn = 13 --> DECOut = 0000000000
+
+                 140 BCDIn = 14 --> DECOut = 0000000000
+
+                 150 BCDIn = 15 --> DECOut = 0000000000
+
+                 160 BCDIn =  0 --> DECOut = 0000000000
+
+                 165 BCDIn =  0 --> DECOut = 0000000001
+
+$finish called at time : 170 ns : File "C:/Users/Minji/vivado/DD04-2_2020112099/DD04-2_2020112099.srcs/sources_1/new/DD04-2_2020112099.v" Line 73
