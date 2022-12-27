@@ -1,0 +1,36 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+                   0 BCDIn =  0 --> DECOut = 0000000001
+
+                  10 BCDIn =  1 --> DECOut = 0000000010
+
+                  20 BCDIn =  2 --> DECOut = 0000000100
+
+                  30 BCDIn =  3 --> DECOut = 0000001000
+
+                  40 BCDIn =  4 --> DECOut = 0000010000
+
+                  50 BCDIn =  5 --> DECOut = 0000100000
+
+                  60 BCDIn =  6 --> DECOut = 0001000000
+
+                  70 BCDIn =  7 --> DECOut = 0010000000
+
+                  80 BCDIn =  8 --> DECOut = 0100000000
+
+                  90 BCDIn =  9 --> DECOut = 1000000000
+
+                 100 BCDIn = 10 --> DECOut = 1111111111
+
+                 110 BCDIn = 11 --> DECOut = 1111111111
+
+                 120 BCDIn = 12 --> DECOut = 1111111111
+
+                 130 BCDIn = 13 --> DECOut = 1111111111
+
+                 140 BCDIn = 14 --> DECOut = 1111111111
+
+                 150 BCDIn = 15 --> DECOut = 1111111111
+
+                 160 BCDIn =  0 --> DECOut = 0000000001
+

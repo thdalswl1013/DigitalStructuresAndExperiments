@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Minji/vivado/DD03_2020112099/DD03_2020112099.srcs/sources_1/new/DD03_2020112099.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCDtoDecimal
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Minji/vivado/DD03_2020112099/DD03_2020112099.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
