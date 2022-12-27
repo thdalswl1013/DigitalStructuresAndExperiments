@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Nov 16 13:55:57 2021
+# Process ID: 11104
+# Current directory: C:/Users/Minji/vivado/DD07_2020112099
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3644 C:\Users\Minji\vivado\DD07_2020112099\DD07_2020112099.xpr
+# Log file: C:/Users/Minji/vivado/DD07_2020112099/vivado.log
+# Journal file: C:/Users/Minji/vivado/DD07_2020112099\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Minji/vivado/DD07_2020112099/DD07_2020112099.xpr
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/Minji/vivado/DD07_2020112099/DD07_2020112099.srcs/sources_1/new/DD07_2020112099_tb.v'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:06 . Memory (MB): peak = 685.199 ; gain = 52.449
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Nov 16 14:00:21 2021...
