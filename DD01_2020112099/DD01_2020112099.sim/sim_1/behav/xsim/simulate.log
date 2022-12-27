@@ -1,0 +1,25 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+                   0 Output q =  0
+                  20 Output q =  1
+                  30 Output q =  2
+                  40 Output q =  3
+                  50 Output q =  4
+                  60 Output q =  5
+                  70 Output q =  6
+                  80 Output q =  7
+                  90 Output q =  8
+                 100 Output q =  9
+                 110 Output q = 10
+                 120 Output q = 11
+                 130 Output q = 12
+                 140 Output q = 13
+                 150 Output q = 14
+                 160 Output q = 15
+                 170 Output q =  0
+                 180 Output q =  1
+                 190 Output q =  2
+                 195 Output q =  0
+                 210 Output q =  1
+                 220 Output q =  2
+$finish called at time : 225 ns : File "C:/Users/Minji/vivado/DD01_2020112099/DD01_2020112099.srcs/sources_1/new/DD01_2020112099.v" Line 98
