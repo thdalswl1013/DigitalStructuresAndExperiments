@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Minji/vivado/DD06_2020112099/DD06_2020112099.srcs/sources_1/new/seq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Minji/vivado/DD06_2020112099_TB/DD06_2020112099_TB.srcs/sources_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
