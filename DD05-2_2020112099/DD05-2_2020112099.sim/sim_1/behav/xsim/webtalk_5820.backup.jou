@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Nov  2 11:52:53 2021
+# Process ID: 5820
+# Current directory: C:/Users/Minji/vivado/DD05-2_2020112099/DD05-2_2020112099.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Minji/vivado/DD05-2_2020112099/DD05-2_2020112099.sim/sim_1/behav/xsim/xsim.dir/delay_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Minji/vivado/DD05-2_2020112099/DD05-2_2020112099.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Minji/vivado/DD05-2_2020112099/DD05-2_2020112099.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Minji/vivado/DD05-2_2020112099/DD05-2_2020112099.sim/sim_1/behav/xsim/xsim.dir/delay_tb_behav/webtalk/xsim_webtalk.tcl -notrace
